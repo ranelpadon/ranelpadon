@@ -1410,7 +1410,7 @@
                                             lowlighter/metrics
                                         </span>
                                         <span>
-                                            starred 16 hours ago
+                                            starred 17 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -1468,7 +1468,7 @@
                                             akamud/vscode-theme-onedark
                                         </span>
                                         <span>
-                                            starred 1 day ago
+                                            starred 2 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -1520,7 +1520,7 @@
                                             alevchuk/vim-clutch
                                         </span>
                                         <span>
-                                            starred 2 days ago
+                                            starred 3 days ago
                                         </span>
                                     </div>
                                 </div>
@@ -1814,7 +1814,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.0329961913686 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.036418211536 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2363,7 +2363,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Sun, 04 Apr 2021 10:14:05 GMT with lowlighter/metrics@3.6.0
+                    Last updated Sun, 04 Apr 2021 11:12:06 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
