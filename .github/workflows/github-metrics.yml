@@ -21,6 +21,7 @@ jobs:
             plugin_stackoverflow_user: 2705847 
             plugin_stackoverflow_sections: ''
             plugin_achievements: yes
+            plugin_achievements_ignored: influencer, follower, maintainer, contributor, explorer, octonaut
             plugin_gists: yes
             plugin_lines: yes
             plugin_stars: yes
