@@ -26,6 +26,3 @@ jobs:
             plugin_stars: yes
             plugin_stars_limit: 3
             plugin_traffic: yes
-            plugin_licenses: no
-            plugin_contributors: yes
-            plugin_contributors_base: commit
