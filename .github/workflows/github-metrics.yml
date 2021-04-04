@@ -19,9 +19,14 @@ jobs:
             plugin_followup: yes
             plugin_stackoverflow: yes
             plugin_stackoverflow_user: 2705847 
-            plugin_stackoverflow_limit: 0
+            plugin_stackoverflow_sections: ''
             plugin_achievements: yes
             plugin_gists: yes
             plugin_lines: yes
             plugin_contributors: yes
             plugin_stars: yes
+            plugin_stars_limit: 3
+            plugin_traffic: yes
+            plugin_wakatime: yes
+            plugin_wakatime_sections: languages, languages-graphs
+            plugin_licenses: no
