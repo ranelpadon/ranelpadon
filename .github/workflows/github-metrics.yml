@@ -23,10 +23,13 @@ jobs:
             plugin_achievements: yes
             plugin_gists: yes
             plugin_lines: yes
-            plugin_contributors: yes
             plugin_stars: yes
             plugin_stars_limit: 3
             plugin_traffic: yes
             plugin_wakatime: yes
             plugin_wakatime_sections: languages, languages-graphs
             plugin_licenses: no
+            plugin_contributors: yes
+            plugin_contributors_base: commit
+            
+            
