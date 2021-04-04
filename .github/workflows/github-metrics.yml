@@ -12,5 +12,10 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+            # Your GitHub token
+            token: ${{ secrets.METRICS_TOKEN }}
+            plugin_languages: yes
+            plugin_languages_ignored: ''                                 # List of languages to ignore
+            plugin_languages_skipped: my-test-repo                       # List of repositories to skip
+            plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
+            plugin_languages_threshold: 2%                               # Hides all languages less than 2%
