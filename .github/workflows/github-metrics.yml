@@ -15,6 +15,7 @@ jobs:
             # Your GitHub token
             token: ${{ secrets.METRICS_TOKEN }}
             config_order: base.header, introduction, base.activity+community, base.repositories, followup, languages, projects, activity, stargazers, stackoverflow, achievements, gists, stars
+            repositories_forks: yes
             plugin_languages: yes
             plugin_stargazers: yes
             plugin_followup: yes
