@@ -1621,7 +1621,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.51146999889015 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="91.51464729442542 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1971,7 +1971,7 @@
                                             johnsci911/nvim-ide
                                         </span>
                                         <span>
-                                            starred 17 hours ago
+                                            starred 18 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2136,7 +2136,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Sat, 10 Apr 2021 01:26:35 GMT with lowlighter/metrics@3.6.0
+                    Last updated Sat, 10 Apr 2021 02:20:28 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
