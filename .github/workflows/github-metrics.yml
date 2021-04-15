@@ -12,20 +12,5 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-            # Your GitHub token
-            token: ${{ secrets.METRICS_TOKEN }}
-            config_order: base.header, introduction, base.activity+community, base.repositories, followup, languages, projects, activity, stargazers, stackoverflow, achievements, gists, stars
-            repositories_forks: yes
-            plugin_languages: yes
-            plugin_stargazers: yes
-            plugin_followup: yes
-            plugin_stackoverflow: yes
-            plugin_stackoverflow_user: 2705847 
-            plugin_stackoverflow_sections: ''
-            plugin_achievements: yes
-            plugin_achievements_ignored: influencer, follower, maintainer, contributor, explorer, octonaut
-            plugin_gists: yes
-            plugin_lines: yes
-            plugin_stars: yes
-            plugin_stars_limit: 3
-            plugin_traffic: yes
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
