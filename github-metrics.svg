@@ -1631,7 +1631,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.21602357175924 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.2193453933917 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2070,7 +2070,7 @@
                                             ghzliahlam/vimium-custom-dark-theme
                                         </span>
                                         <span>
-                                            starred 13 hours ago
+                                            starred 14 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2128,7 +2128,7 @@
                                             yingDev/Tickeys
                                         </span>
                                         <span>
-                                            starred 21 hours ago
+                                            starred 22 hours ago
                                         </span>
                                     </div>
                                 </div>
@@ -2241,7 +2241,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Fri, 30 Apr 2021 03:07:21 GMT with lowlighter/metrics@3.7.0
+                    Last updated Fri, 30 Apr 2021 04:04:03 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
