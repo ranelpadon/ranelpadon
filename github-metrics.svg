@@ -1613,7 +1613,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.4510527385369 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.452701320522564 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2075,7 +2075,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wfxr/forgit</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2117,7 +2117,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>mhinz/neovim-remote</span>
-                                            <span>starred 12 hours ago</span>
+                                            <span>starred 13 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -2159,7 +2159,7 @@
                                             </svg>
                                             <div class="name">
                                                 <span>ms-jpq/chadtree</span>
-                                                <span>starred 12 hours ago</span>
+                                                <span>starred 13 hours ago</span>
                                             </div>
                                         </div>
                                         <div class="field description">
@@ -2194,7 +2194,7 @@
                     </section>
                     <footer>
                         <span>These metrics include private contributions</span>
-                        <span>Last updated 22/08/2021, 04:12  with lowlighter/metrics@3.13.0</span>
+                        <span>Last updated 22/08/2021, 05:08  with lowlighter/metrics@3.13.0</span>
                     </footer>
                 </div>
                 <div id="metrics-end"></div>
