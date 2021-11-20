@@ -2271,7 +2271,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>linsomniac/python-memcached</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2309,7 +2309,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jairovsky/simple-memcache-ui</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2347,7 +2347,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>memcached/memcached</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2386,7 +2386,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2021, 12:15:49  with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 20 Nov 2021, 13:16:02  with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
