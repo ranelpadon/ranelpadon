@@ -19,13 +19,13 @@ jobs:
             plugin_languages: yes
             plugin_stargazers: no
             plugin_followup: yes
-            # plugin_stackoverflow: yes
+            plugin_stackoverflow: no
             # plugin_stackoverflow_user: 2705847 
             # plugin_stackoverflow_sections: ''
             plugin_achievements: yes
             plugin_achievements_ignored: influencer, follower, maintainer, contributor, explorer, octonaut
-            # plugin_gists: yes
+            plugin_gists: no
             plugin_lines: yes
-            # plugin_stars: yes
+            plugin_stars: no
             # plugin_stars_limit: 3
             plugin_traffic: yes
