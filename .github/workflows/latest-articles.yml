@@ -1,0 +1,17 @@
+name: Latest Articles
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *' # Runs every day at 12 am
+  # Lines below let you run workflow manually and on each commit (optional)
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+  
+jobs:
+  latest-articles-update:
+    name: Update this repo's README with latest articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://ranelpadon.medium.com/feed"
