@@ -24,7 +24,6 @@ jobs:
             # plugin_stackoverflow_sections: ''
             plugin_achievements: yes
             # plugin_achievements_ignored: influencer, follower, maintainer, contributor, explorer, octonaut
-            plugin_achievements_ignored: influencer, maintainer, contributor, explorer
             plugin_gists: no
             plugin_lines: yes
             plugin_stars: no
