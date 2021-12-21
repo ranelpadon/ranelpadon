@@ -1,8 +1,7 @@
 name: Metrics
 on:
-  schedule:
-    # run automatically every 12 hours
-    - cron: "0 */12 * * *"
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *' # Runs every day at 12 am
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}
