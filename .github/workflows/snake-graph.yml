@@ -3,7 +3,7 @@ name: Generate Snake
 
 on:
   schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs every day at 12 am
+    - cron: '0 0 * * *' # Runs every day at 12am UTC/8am PH
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
