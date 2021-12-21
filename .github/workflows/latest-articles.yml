@@ -1,7 +1,7 @@
 name: Latest Articles
 on:
   schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs every day at 12 am
+    - cron: '0 0 * * *' # Runs every day at 12am UTC/8am PH
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
   push: {branches: ["master", "main"]}
