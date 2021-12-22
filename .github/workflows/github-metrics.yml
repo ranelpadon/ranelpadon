@@ -14,7 +14,7 @@ jobs:
         with:
             token: ${{ secrets.METRICS_TOKEN }}
             # config_order: base.header, introduction, base.activity+community, base.repositories, followup, languages, projects, activity, stargazers, achievements, stackoverflow, gists, stars
-            config_order: base.header, introduction, base.activity+community, base.repositories, followup, languages, projects, activity, stargazers, achievements 
+            config_order: base.header, introduction, base.activity+community, base.repositories, followup, languages, projects, activity, stargazers, achievements, plugin_activity
             repositories_forks: yes
             plugin_languages: yes
             plugin_stargazers: no
@@ -23,9 +23,15 @@ jobs:
             # plugin_stackoverflow_user: 2705847 
             # plugin_stackoverflow_sections: ''
             plugin_achievements: yes
+            plugin_achievements_display: compact
             plugin_achievements_ignored: chatter, explorer, octonaut
             plugin_gists: no
             plugin_lines: yes
             plugin_stars: no
             # plugin_stars_limit: 3
             plugin_traffic: yes
+            plugin_activity: yes
+            plugin_activity_limit: 5  # Limit to 5 events
+            plugin_activity_days: 0  # Keep only events from last 14 days (set to 0 for no limit)
+            plugin_activity_filter: all  # Show all events (use table above to filter events types)
+            # plugin_activity_timestamps: yes  # Display events timestamps
