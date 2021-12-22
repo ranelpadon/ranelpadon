@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/ranelpadon/ranelpadon/output/github-contribution-grid-snake.svg" />
 </p>
 
+![Metrics](https://github.com/ranelpadon/ranelpadon/blob/main/github-metrics.svg)
 
 #### Latest Articles
 <!-- BLOG-POST-LIST:START -->
@@ -11,6 +12,3 @@
 - [Keys on Steroids: Simple Setting Tweak to Increase Your Efficiency](https://medium.com/codex/keys-on-steroids-simple-setting-tweak-to-increase-your-efficiency-ff80e92d87f1?source=rss-9acd3487e68c------2)
 - [Vim Targets: Work on Distant Text Objects with Fewer Keystrokes](https://medium.com/codex/vim-targets-work-on-text-objects-with-less-keystrokes-684683bbaeea?source=rss-9acd3487e68c------2)
 <!-- BLOG-POST-LIST:END -->
-
-
-![Metrics](https://github.com/ranelpadon/ranelpadon/blob/main/github-metrics.svg)
